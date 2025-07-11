@@ -1,0 +1,585 @@
+instdir: "./../"
+instances:
+  - repo: local
+    items:
+      - name: atacseq_72_138_14_1_3
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting3_atacseq_72_138_14_1_3.input
+
+      - name: atacseq_72_69_7_1_3
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting3_atacseq_72_69_7_1_3.input
+
+      - name: atacseq_72_92_10_1_2
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting2_atacseq_72_92_10_1_2.input
+
+      - name: atacseq_72_46_5_1_1
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting1_atacseq_72_46_5_1_1.input
+
+      - name: atacseq_72_92_10_1_3
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting3_atacseq_72_92_10_1_3.input
+
+      - name: atacseq_72_46_5_1_2
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting2_atacseq_72_46_5_1_2.input
+
+      - name: atacseq_72_46_5_1_3
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting3_atacseq_72_46_5_1_3.input
+
+      - name: atacseq_72_69_7_1_4
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting4_atacseq_72_69_7_1_4.input
+
+      - name: atacseq_72_92_10_1_4
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting4_atacseq_72_92_10_1_4.input
+
+      - name: atacseq_72_46_5_1_4
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting4_atacseq_72_46_5_1_4.input
+
+      - name: atacseq_72_69_7_1_2
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting2_atacseq_72_69_7_1_2.input
+
+      - name: atacseq_72_69_7_1_1
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting1_atacseq_72_69_7_1_1.input
+
+      - name: atacseq_72_138_14_1_1
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting1_atacseq_72_138_14_1_1.input
+
+      - name: atacseq_72_92_10_1_1
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting1_atacseq_72_92_10_1_1.input
+
+      - name: atacseq_72_138_14_1_2
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting2_atacseq_72_138_14_1_2.input
+
+      - name: atacseq_72_138_14_1_4
+        files:
+          - SchedulingGraphs/atacseqs1.dot
+          - Mappings/atacseq_mapping_small.txt
+          - Profiles/atacseq_small/setting4_atacseq_72_138_14_1_4.input
+
+      - name: atacseq_144_138_14_1_4
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting4_atacseq_144_138_14_1_4.input
+
+      - name: atacseq_144_46_5_1_4
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting4_atacseq_144_46_5_1_4.input
+
+      - name: atacseq_144_69_7_1_4
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting4_atacseq_144_69_7_1_4.input
+
+      - name: atacseq_144_92_10_1_3
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting3_atacseq_144_92_10_1_3.input
+
+      - name: atacseq_144_138_14_1_2
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_138_14_1_2.input
+
+      - name: atacseq_144_46_5_1_2
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_46_5_1_2.input
+
+      - name: atacseq_144_138_14_1_3
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting3_atacseq_144_138_14_1_3.input
+
+      - name: atacseq_144_92_10_1_4
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting4_atacseq_144_92_10_1_4.input
+
+      - name: atacseq_144_69_7_1_3
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting3_atacseq_144_69_7_1_3.input
+
+      - name: atacseq_144_69_7_1_1
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_69_7_1_1.input
+
+      - name: atacseq_144_92_10_1_1
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_92_10_1_1.input
+
+      - name: atacseq_144_92_10_1_2
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_92_10_1_2.input
+
+      - name: atacseq_144_46_5_1_3
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting3_atacseq_144_46_5_1_3.input
+
+      - name: atacseq_144_138_14_1_1
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_138_14_1_1.input
+
+      - name: atacseq_144_46_5_1_1
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_46_5_1_1.input
+
+      - name: atacseq_144_69_7_1_2
+        files:
+          - SchedulingGraphs/atacseqs2.dot
+          - Mappings/atacseq_mapping_large.txt
+          - Profiles/atacseq_large/setting2_atacseq_144_69_7_1_2.input
+
+      - name: atacseq200_72_55_6_1_4
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting4_atacseq200_72_55_6_1_4.input
+
+      - name: atacseq200_72_55_6_1_2
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting2_atacseq200_72_55_6_1_2.input
+
+      - name: atacseq200_72_165_17_1_2
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting2_atacseq200_72_165_17_1_2.input
+
+      - name: atacseq200_72_165_17_1_4
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting4_atacseq200_72_165_17_1_4.input
+
+      - name: atacseq200_72_110_11_1_4
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting4_atacseq200_72_110_11_1_4.input
+
+      - name: atacseq200_72_110_11_1_2
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting2_atacseq200_72_110_11_1_2.input
+
+      - name: atacseq200_72_83_9_1_2
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting2_atacseq200_72_83_9_1_2.input
+
+      - name: atacseq200_72_165_17_1_1
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting1_atacseq200_72_165_17_1_1.input
+
+      - name: atacseq200_72_110_11_1_1
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting1_atacseq200_72_110_11_1_1.input
+
+      - name: atacseq200_72_83_9_1_3
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting3_atacseq200_72_83_9_1_3.input
+
+      - name: atacseq200_72_83_9_1_4
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting4_atacseq200_72_83_9_1_4.input
+
+      - name: atacseq200_72_165_17_1_3
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting3_atacseq200_72_165_17_1_3.input
+
+      - name: atacseq200_72_55_6_1_1
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting1_atacseq200_72_55_6_1_1.input
+
+      - name: atacseq200_72_110_11_1_3
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting3_atacseq200_72_110_11_1_3.input
+
+      - name: atacseq200_72_83_9_1_1
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting1_atacseq200_72_83_9_1_1.input
+
+      - name: atacseq200_72_55_6_1_3
+        files:
+          - SchedulingGraphs/atacseq200s1.dot
+          - Mappings/atacseq200_mapping_small.txt
+          - Profiles/atacseq200_small/setting3_atacseq200_72_55_6_1_3.input
+
+      - name: atacseq200_144_108_11_1_4
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting4_atacseq200_144_108_11_1_4.input
+
+      - name: atacseq200_144_81_9_1_1
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_81_9_1_1.input
+
+      - name: atacseq200_144_108_11_1_1
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_108_11_1_1.input
+
+      - name: atacseq200_144_81_9_1_4
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting4_atacseq200_144_81_9_1_4.input
+
+      - name: atacseq200_144_54_6_1_4
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting4_atacseq200_144_54_6_1_4.input
+
+      - name: atacseq200_144_162_17_1_1
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_162_17_1_1.input
+
+      - name: atacseq200_144_162_17_1_2
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_162_17_1_2.input
+
+      - name: atacseq200_144_162_17_1_3
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting3_atacseq200_144_162_17_1_3.input
+
+      - name: atacseq200_144_162_17_1_4
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting4_atacseq200_144_162_17_1_4.input
+
+      - name: atacseq200_144_54_6_1_2
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_54_6_1_2.input
+
+      - name: atacseq200_144_81_9_1_2
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_81_9_1_2.input
+
+      - name: atacseq200_144_81_9_1_3
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting3_atacseq200_144_81_9_1_3.input
+
+      - name: atacseq200_144_54_6_1_1
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_54_6_1_1.input
+
+      - name: atacseq200_144_108_11_1_2
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting2_atacseq200_144_108_11_1_2.input
+
+      - name: atacseq200_144_54_6_1_3
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting3_atacseq200_144_54_6_1_3.input
+
+      - name: atacseq200_144_108_11_1_3
+        files:
+          - SchedulingGraphs/atacseq200s2.dot
+          - Mappings/atacseq200_mapping_large.txt
+          - Profiles/atacseq200_large/setting3_atacseq200_144_108_11_1_3.input
+
+      - name: bacass_72_42_5_1_3
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting3_bacass_72_42_5_1_3.input
+
+      - name: bacass_72_21_3_1_2
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting2_bacass_72_21_3_1_2.input
+
+      - name: bacass_72_42_5_1_1
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting1_bacass_72_42_5_1_1.input
+
+      - name: bacass_72_42_5_1_2
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting2_bacass_72_42_5_1_2.input
+
+      - name: bacass_72_21_3_1_4
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting4_bacass_72_21_3_1_4.input
+
+      - name: bacass_72_63_7_1_4
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting4_bacass_72_63_7_1_4.input
+
+      - name: bacass_72_32_4_1_1
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting1_bacass_72_32_4_1_1.input
+
+      - name: bacass_72_63_7_1_3
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting3_bacass_72_63_7_1_3.input
+
+      - name: bacass_72_32_4_1_3
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting3_bacass_72_32_4_1_3.input
+
+      - name: bacass_72_32_4_1_4
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting4_bacass_72_32_4_1_4.input
+
+      - name: bacass_72_42_5_1_4
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting4_bacass_72_42_5_1_4.input
+
+      - name: bacass_72_63_7_1_1
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting1_bacass_72_63_7_1_1.input
+
+      - name: bacass_72_32_4_1_2
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting2_bacass_72_32_4_1_2.input
+
+      - name: bacass_72_21_3_1_3
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting3_bacass_72_21_3_1_3.input
+
+      - name: bacass_72_63_7_1_2
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting2_bacass_72_63_7_1_2.input
+
+      - name: bacass_72_21_3_1_1
+        files:
+          - SchedulingGraphs/bacasss1.dot
+          - Mappings/bacass_mapping_small.txt
+          - Profiles/bacass_small/setting1_bacass_72_21_3_1_1.input
+
+      - name: bacass_144_63_7_1_4
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting4_bacass_144_63_7_1_4.input
+
+      - name: bacass_144_32_4_1_3
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting3_bacass_144_32_4_1_3.input
+
+      - name: bacass_144_63_7_1_3
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting3_bacass_144_63_7_1_3.input
+
+      - name: bacass_144_21_3_1_4
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting4_bacass_144_21_3_1_4.input
+
+      - name: bacass_144_21_3_1_2
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_21_3_1_2.input
+
+      - name: bacass_144_42_5_1_1
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_42_5_1_1.input
+
+      - name: bacass_144_63_7_1_1
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_63_7_1_1.input
+
+      - name: bacass_144_42_5_1_3
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting3_bacass_144_42_5_1_3.input
+
+      - name: bacass_144_32_4_1_2
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_32_4_1_2.input
+
+      - name: bacass_144_32_4_1_4
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting4_bacass_144_32_4_1_4.input
+
+      - name: bacass_144_21_3_1_3
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting3_bacass_144_21_3_1_3.input
+
+      - name: bacass_144_42_5_1_4
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting4_bacass_144_42_5_1_4.input
+
+      - name: bacass_144_21_3_1_1
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_21_3_1_1.input
+
+      - name: bacass_144_32_4_1_1
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_32_4_1_1.input
+
+      - name: bacass_144_42_5_1_2
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_42_5_1_2.input
+
+      - name: bacass_144_63_7_1_2
+        files:
+          - SchedulingGraphs/bacasss2.dot
+          - Mappings/bacass_mapping_large.txt
+          - Profiles/bacass_large/setting2_bacass_144_63_7_1_2.input
+
+experiments:
+  - name: 'CaWoSched-ILP'
+    exclusive: true
+    stdout: out
+    args: ['./../../ILP/multiple_machines_no_freezing_hetero.py', '--graph', '@INSTANCE:0@', '--mapping', '@INSTANCE:1@', '--setup', '@INSTANCE:2@']

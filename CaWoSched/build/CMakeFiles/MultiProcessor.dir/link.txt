@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMultiProcessor.a CMakeFiles/MultiProcessor.dir/lib/multipleProcessors/multiple_processors.cpp.o
+/usr/bin/ranlib libMultiProcessor.a
