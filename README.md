@@ -177,7 +177,7 @@ The fourth line contains the brown carbon cost we have to pay for every energy u
 
 ### Example
 
-An example for all input files is shown in the ``examples/`` folder together with an example structure of `app/main_mutliple_processors.cpp`. When building the project this folder will also contain an executable.
+Examples for workflow files, mappings and setups can be found in the ``experiments/`` folder.
 
 ## Scheduling Algorithms
 
