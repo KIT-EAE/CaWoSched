@@ -7,11 +7,14 @@ A scheduling framework for optimizing workflow execution on heterogeneous multi-
 If you use CaWoSched in your research, please cite:
 
 ```bibtex
-@article{cawosched2025,
-  title={Carbon-aware Workflow Scheduling with Fixed Mapping and Deadline Constraint},
-  author={Schweisgut, Dominik and Benoit, Anne and Robert, Yves and Meyerhenke, Henning},
-  journal={[Journal]},
-  year={2025}
+@misc{schweisgut2025carbonawareworkflowschedulingfixed,
+      title={Carbon-Aware Workflow Scheduling with Fixed Mapping and Deadline Constraint}, 
+      author={Dominik Schweisgut and Anne Benoit and Yves Robert and Henning Meyerhenke},
+      year={2025},
+      eprint={2507.08725},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2507.08725}, 
 }
 ```
 
