@@ -4,17 +4,25 @@
 
 A scheduling framework for optimizing workflow execution on heterogeneous multi-processor systems while minimizing carbon emissions and meeting deadline constraints.
 
-If you use CaWoSched in your research, please cite:
+If you use CaWoSched in your research, please cite our paper:
 
 ```bibtex
-@misc{schweisgut2025carbonawareworkflowschedulingfixed,
-      title={Carbon-Aware Workflow Scheduling with Fixed Mapping and Deadline Constraint}, 
-      author={Dominik Schweisgut and Anne Benoit and Yves Robert and Henning Meyerhenke},
-      year={2025},
-      eprint={2507.08725},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2507.08725}, 
+@inproceedings{10.1145/3754598.3754673,
+   author = {Schweisgut, Dominik and Benoit, Anne and Robert, Yves and Meyerhenke, Henning},
+   title = {Carbon-Aware Workflow Scheduling with Fixed Mapping and Deadline Constraint},
+   year = {2025},
+   isbn = {9798400720741},
+   publisher = {Association for Computing Machinery},
+   address = {New York, NY, USA},
+   url = {https://doi.org/10.1145/3754598.3754673},
+   doi = {10.1145/3754598.3754673},
+   booktitle = {Proceedings of the 54th International Conference on Parallel Processing},
+   pages = {627–637},
+   numpages = {11},
+   keywords = {Workflow scheduling, carbon-aware computing, DAG scheduling, heterogeneous platforms},
+   location = {
+   },
+   series = {ICPP '25}
 }
 ```
 
