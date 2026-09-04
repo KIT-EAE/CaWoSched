@@ -209,7 +209,7 @@ CaWoSched implements multiple variants of the heuristic framework:
 
 The workflow graphs in this repository are synthetic. Their DAG topologies
 were extracted from publicly available Nextflow pipelines (e.g.,
-[nf-core/atacseq](https://github.com/nf-core/atacseq, [nf-core/bacass](https://github.com/nf-core/bacass), [nf-core/chipseq](https://github.com/nf-core/chipseq), [nf-core/methylseq](https://github.com/nf-core/methylseq), [nf-core/eager](https://github.com/nf-core/eager) MIT License,
+[nf-core/atacseq](https://github.com/nf-core/atacseq), [nf-core/bacass](https://github.com/nf-core/bacass), [nf-core/chipseq](https://github.com/nf-core/chipseq), [nf-core/methylseq](https://github.com/nf-core/methylseq), [nf-core/eager](https://github.com/nf-core/eager) MIT License,
 © nf-core community). Only the abstract graph structure was retained;
 nodes are anonymized (numbered) and all node and edge weights were
 randomly sampled. No source code, configuration, names, or other content
