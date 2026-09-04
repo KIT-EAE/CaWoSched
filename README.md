@@ -204,6 +204,20 @@ CaWoSched implements multiple variants of the heuristic framework:
 6. **`pressW(-LS)`**: Base score is `pressure` together with a weight factor to account for the power heterogeneity of the cluster. `-LS` if local search is applied.
 7. **`slackWR(-LS)`**: Base score is `slack` together with a weight factor to account for the power heterogeneity of the cluster and interval refinement is used. `-LS` if local search is applied.
 8. **`pressWR(-LS)`**: Base score is `slack` together with a weight factor to account for the power heterogeneity of the cluster and interval refinement is used. `-LS` if local search is applied.
+
+## Data Provenance
+
+The workflow graphs in this repository are synthetic. Their DAG topologies
+were extracted from publicly available Nextflow pipelines (e.g.,
+[nf-core/atacseq](https://github.com/nf-core/atacseq, [nf-core/bacass](https://github.com/nf-core/bacass), [nf-core/chipseq](https://github.com/nf-core/chipseq), [nf-core/methylseq](https://github.com/nf-core/methylseq), [nf-core/eager](https://github.com/nf-core/eager) MIT License,
+© nf-core community). Only the abstract graph structure was retained;
+nodes are anonymized (numbered) and all node and edge weights were
+randomly sampled. No source code, configuration, names, or other content
+from the original pipelines is included.
+
+This repository is licensed under the MIT License (see LICENSE). If you
+use this dataset, please also cite the original pipelines listed above
+(see CITATION / our paper for details).
 ---
 
 ## License
